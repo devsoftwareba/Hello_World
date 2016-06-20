@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 #Hello World
-=======
-** Hello World
->>>>>>> origin/master
+
 
 This will be public repo for dev.software.ba on Github
 
